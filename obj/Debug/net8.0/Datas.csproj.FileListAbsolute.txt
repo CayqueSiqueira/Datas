@@ -12,3 +12,4 @@ C:\dev\Datas\obj\Debug\net8.0\refint\Datas.dll
 C:\dev\Datas\obj\Debug\net8.0\Datas.pdb
 C:\dev\Datas\obj\Debug\net8.0\Datas.genruntimeconfig.cache
 C:\dev\Datas\obj\Debug\net8.0\ref\Datas.dll
+C:\dev\Datas\obj\Debug\net8.0\Datas.sourcelink.json
